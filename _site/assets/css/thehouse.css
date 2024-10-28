@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body{
+    background-color: #F2F2F2;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "Oswald", sans-serif;
+    font-weight: 700;
+}
+.th-hero{
+    background: url(../images/th-hero.webp)no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 70vh;
+}
+.th-hero h1{
+    font-size: 50px;
+}
+.th-hero p{
+    font-size: 18px;
+}
+.about-section{
+    height: auto;
+    color: black;
+}
+.about-section h1{
+    font-size: 50px;
+}
+.about-section p{
+    font-size: 18px;
+}
+.projets-section{
+    height: auto;
+    color: black;
+}
+.projets-section h1{
+    font-size: 50px;
+}
+.projets-section p{
+    font-size: 18px;
+}
+.pourquoi-section{
+    height: auto;
+    color: white;
+}
+.pourquoi-section h1{
+    font-size: 50px;
+}
+.pourquoi-section p{
+    font-size: 16px;
+}
+.pourquoi-section .card{
+    background-color: transparent;
+    border: none;
+    border-radius: 0%;
+    color: white;
+}
+.pourquoi-section .card .card-title{
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.confiance-section{
+    background-color: white;
+    height: auto;
+    color: black;
+}
+.confiance-section h1{
+    font-size: 50px;
+}
+.confiance-section p{
+    font-size: 18px;
+}
+.confiance-section .card{
+    border: none;
+}
+.talk-section{
+    background: url(../images/th-img-ensemble.webp)no-repeat;
+    background-size: cover;
+    background-position: center top;
+    height: auto;
+}
+.talk-section h1{
+    font-size: 50px;
+}
+.talk-section p{
+    font-size: 18px;
+}
+
+@media (min-width: 320px) and (max-width: 440px) {
+
+    .th-hero{
+        background: url(../images/th-hero.webp)no-repeat;
+        background-size: cover;
+        background-position: bottom;
+        height: 50vh;
+    }
+    .th-hero h1{
+        font-size: 40px;
+    }
+    .th-hero p{
+        font-size: 14px;
+    }
+
+    .about-section{
+        height: auto;
+        color: black;
+    }
+    .about-section h1{
+        font-size: 35px;
+    }
+    .about-section p{
+        font-size: 14px;
+    }
+    .projets-section{
+        height: auto;
+        color: black;
+    }
+    .projets-section h1{
+        font-size: 35px;
+    }
+    .projets-section p{
+        font-size: 14px;
+    }
+    .pourquoi-section{
+        height: auto;
+        color: white;
+    }
+    .pourquoi-section h1{
+        font-size: 32px;
+    }
+    .pourquoi-section p{
+        font-size: 14px;
+    }
+    .pourquoi-section .card{
+        background-color: transparent;
+        border: none;
+        border-radius: 0%;
+        color: white;
+    }
+    .pourquoi-section .card .card-title{
+        font-size: 22px;
+        text-transform: uppercase;
+    }
+    .confiance-section{
+        background-color: white;
+        height: auto;
+        color: black;
+    }
+    .confiance-section h1{
+        font-size: 35px;
+    }
+    .confiance-section p{
+        font-size: 14px;
+    }
+    .confiance-section .card{
+        border: none;
+    }
+    .talk-section{
+        background: url(../images/th-img-ensemble.webp)no-repeat;
+        background-size: cover;
+        background-position: center top;
+        height: auto;
+    }
+    .talk-section h1{
+        font-size: 35px;
+    }
+    .talk-section p{
+        font-size: 14px;
+    }
+
+
+
+    
+}
