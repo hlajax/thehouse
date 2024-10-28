@@ -17,11 +17,15 @@ h1, h2, h3, h4, h5, h6{
     font-size: 50px;
 }
 .th-hero p{
-    font-size: 18px;
+    font-size: 16px;
 }
 .about-section{
     height: auto;
     color: black;
+    padding-bottom: 5%;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 5%;
 }
 .about-section h1{
     font-size: 50px;

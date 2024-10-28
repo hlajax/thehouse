@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.4"
+ruby "3.1.6"
+gem "jekyll"
 gem 'jekyll-sitemap'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -14,4 +15,4 @@ end
 gem "wdm"
 
 
-gem "webrick", "~> 1.7"
+gem "webrick"

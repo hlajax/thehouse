@@ -9,7 +9,7 @@ title: "Bienvenue chez The House"
             <h6 class="text-uppercase fw-bold text-white">
                 agence d'architecture basée à Kinshasa
             </h6>
-            <h1 class="text-uppercase fw-bold text-white">
+            <h1 class="text-uppercase fw-bold text-white animate__animated animate__fadeIn">
                 Nous concevons des Espaces Exceptionnels
             </h1>
         </div>
@@ -24,7 +24,7 @@ title: "Bienvenue chez The House"
     </div>
 </div>
 
-<div class="container-fluid p-xxl-5 p-lg-5 p-3 mt-5 mb-5">
+<div class="container-fluid p-xxl-0 p-lg-0 p-3 mt-5 mb-5">
     <div class="row align-items-start about-section">
         <div class="col-xxl-5 col-lg-6 col-12">
             <h6 class="text-uppercase fw-bold">
