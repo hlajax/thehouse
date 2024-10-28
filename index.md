@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Bienvenue chez The House"
+title: "Bienvenue"
 ---
 
 <div class="container-fluid">
